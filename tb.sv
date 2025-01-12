@@ -201,7 +201,7 @@ module tb;
     mul_if mif();
     mul dut (.a(mif.a), .b(mif.b), .y(mif.y));
     initial begin
-        uvm_config_db #(transaction)::set(null,"*", "mif", mif);
+        uvm_config_db #(virtual mul_if)::set(null,"*", "mif", mif);
         run_test("test");
     end
 

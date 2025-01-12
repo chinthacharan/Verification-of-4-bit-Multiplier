@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the verification of a **4-bit Multiplier** using the **Universal Verification Methodology (UVM)**. The goal is to ensure the functionality of a simple 4-bit **Multiplier** circuit.
+This project demonstrates the verification of a **4-bit Multiplier** using the **Universal Verification Methodology (UVM)**. The goal is to ensure the functionality of a simple **Multiplier** circuit.
 
 
 ## Running the Code
